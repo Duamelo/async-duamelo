@@ -1,0 +1,24 @@
+{
+  "name": "async-duamelo",
+  "version": "1.0.0",
+  "description": "Fonctions et modèles communs pour le code asynchrone",
+  "main": "async.js",
+  "scripts": {
+    "test": "macho"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Duamelo/async-duamelo.git"
+  },
+  "keywords": [
+    "async",
+    "node",
+    "js"
+  ],
+  "author": "Duamel DOSSEH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Duamelo/async-duamelo/issues"
+  },
+  "homepage": "https://github.com/Duamelo/async-duamelo#readme"
+}
